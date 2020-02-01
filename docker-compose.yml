@@ -7,7 +7,7 @@ services:
     container_name: chowdown
     command: jekyll serve --force_polling
     ports:
-      - "80:4000"
+      - "4000:4000"
     volumes:
       - .:/srv/jekyll
       - /opt/docker/chowdown/data/components:/srv/jekyll/_components

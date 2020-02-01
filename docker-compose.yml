@@ -10,7 +10,3 @@ services:
       - "4000:4000"
     volumes:
       - .:/srv/jekyll
-      - _components:/srv/jekyll/_components
-      - _images:/srv/jekyll/_images
-      - _posts:/srv/jekyll/_posts
-      - _recipes:/srv/jekyll/_recipes

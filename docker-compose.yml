@@ -5,7 +5,7 @@ services:
     image: jekyll/jekyll:3.8
     restart: always
     container_name: chowdown
-    command: jekyll serve --force_polling
+    command: jekyll serve --watch --drafts
     ports:
       - "4000:4000"
     volumes:

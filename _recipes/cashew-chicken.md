@@ -22,7 +22,7 @@ ingredients:
 - 1 tablespoon grated fresh ginger
 - 1 tablespoon cornstarch
 - 
-- "Stir Fry:"
+- "<b>Stir Fry:</b>"
 - 2 boneless skinless chicken breasts, diced
 - 1 green pepper, diced
 - 1 red pepper, diced

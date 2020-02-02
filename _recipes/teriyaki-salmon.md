@@ -16,17 +16,10 @@ directions:
 
 components:
 - Sushi Rice
+- Teriyaki Sauce
 
 ingredients:
 - 1.2kg salmon filet sliced into 5cm wide slices
-- 3 tbsp teriyaki sauce
-- 3 tbsp hoisin sauce
-- 3 tbsp soy sauce
-- 1 tbsp white vinegar
-- 1 tbsp sesame oil
-- 1/3 cup packed light brown sugar
-- 2 large or 3 medium garlic cloves minced
-- 2 tsp freshly grated ginger or 1/2 tsp ground ginger
 - Sesame seeds to garnish optional
 - Green onion chopped, optional
 

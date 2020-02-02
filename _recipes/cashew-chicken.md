@@ -12,7 +12,7 @@ directions:
 - Serve immediately or store in the refrigerator for up to 3 days.
 
 ingredients:
-- Sauce:
+- "Sauce:"
 - 2 tablespoons soy sauce
 - 2 tablespoons oyster sauce
 - 1 teaspoon sesame oil
@@ -22,8 +22,7 @@ ingredients:
 - 1 tablespoon grated fresh ginger
 - 1 tablespoon cornstarch
 - 
-- Stir Fry:
-- 
+- "Stir Fry:"
 - 2 boneless skinless chicken breasts, diced
 - 1 green pepper, diced
 - 1 red pepper, diced

@@ -3,7 +3,8 @@
 layout: recipe
 title:  "Teriyaki Salmon"
 image: teriyaki-salmon.jpg
-tags: dinner
+categories: [Dinner]
+tags: [dinner, salmon, japanese, teriyaki, rice]
 
 directions:
 - Grease a large rimmed baking sheet (cover with foil and then grease for easier clean-up). Preheat oven to 400˚F.

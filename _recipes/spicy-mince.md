@@ -3,7 +3,8 @@
 layout: recipe
 title:  "Spicy Mince"
 image: spicy-mince.jpg
-tags: dinner
+categories: [Dinner]
+tags: [dinner, mince, mexican, spicy]
 
 directions:
 - Chop onions and mushrooms into small pieces

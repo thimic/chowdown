@@ -3,7 +3,8 @@
 layout: recipe
 title:  "Chocolate Chip Cookies"
 image: chocolate-chip-cookies.jpg
-tags: baking
+categories: [Baking]
+tags: [baking, dessert, sweet, biscuit, cookie]
 
 directions:
 - Preheat the oven to 170 C / Gas mark 3. Grease baking trays or line with parchment.

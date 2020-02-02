@@ -4,9 +4,11 @@
   {% for post in site.recipes %}
     {
     
-	    "title"    : "{{ post.title | escape }}",
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
 		{% if post.ingredients %}"ingredients"    : "{% for ingredient in post.ingredients %}{{ ingredient | escape }}, {% endfor %}",{% endif %}
-		"image"	   : "{{ site.baseurl }}/images/{{ post.image }}",
+		"image"	   : "{{ site.baseurl }}{{ post.image }}",
 	    "url"      : "{{ site.baseurl }}{{ post.url }}"
       
     } {% unless forloop.last %},{% endunless %}

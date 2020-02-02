@@ -3,7 +3,8 @@
 layout: recipe
 title:  "Sushi Rice"
 image: sushi-rice.jpg
-tags: dinner
+categories: [Dinner]
+tags: [dinner, sushi, japanese, rice]
 
 directions:
 - Rinse the rice in a strainer or colander until the water runs clear. Combine with water in a medium saucepan. Bring to a boil, then reduce the heat to low, cover and cook for 20 minutes. Rice should be tender and water should be absorbed. Cool until cool enough to handle.

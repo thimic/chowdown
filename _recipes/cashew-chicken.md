@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Cashew chicken"
-image: chocolate-chip-cookies.jpg
+image: cashew-chicken.jpg
 categories: [dinner]
 tags: [asian, chicken]
 

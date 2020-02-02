@@ -1,12 +1,12 @@
 # Site settings
-title: Chowdown
+title: Jane's and Michael's Cookbook
 email: your-email@domain.com
 description: The plain text recipe database for hackers
 baseurl: ""
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-github_username:  thimic
+github_username: thimic
 
 # Build settings
 markdown: kramdown

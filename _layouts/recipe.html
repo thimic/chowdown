@@ -6,7 +6,7 @@ layout: default
 <!-- call up the image and image credit link -->
   {% for image in page.image %}
   <div class="xs-p2">
-    <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
+    <div class="image ratio bg-cover" style="background-image:url({{site.baseurl}}/images/{{ image }});"></div>
     {% if page.imagecredit %}
       {% for imagecredit in page.imagecredit %}
         <a href="{{ imagecredit }}" class="right">

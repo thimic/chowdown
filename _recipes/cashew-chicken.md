@@ -1,10 +1,10 @@
 ---
 
 layout: recipe
-title:  "Cashew chicken"
+title:  "Cashew Chicken"
 image: cashew-chicken.jpg
 categories: [dinner]
-tags: [asian, chicken]
+tags: [dinner, asian, chicken]
 
 directions:
 - In a small bowl, whisk the sauce ingredients together and set it aside.

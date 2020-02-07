@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Adobo Pork"
+title:  "Курица с макаронами и овощами"
 image: chicken-pasta-vege-pot.png
 categories: [dinner]
 tags: [dinner, european, chicken, pasta, one pot]

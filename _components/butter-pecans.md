@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Butter Pecans"
-image:
+image: butter-pecan.jpg
 categories: [Baking]
 tags: [baking, pecan, nut, butter]
 

@@ -21,8 +21,8 @@ ingredients:
 - 1 teaspoon salt
 - 0.5 teaspoon pepper
 - 1 tablespoon oil
-- 255 g vinegar
-- 116 g soy sauce
-- 250 g water
+- 1 cup / 250 g vinegar
+- 1/2 cup / 116 g soy sauce
+- 1 cup / 250 g water
 ---
 

@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Dakjjim: Braised chicken with vegetables"
-image: Dakjjim.png
+image: dakjjim.png
 categories: [dinner]
 tags: [Korean, chicken, soy sauce, Asian]
 

@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Курица с макаронами и овощами"
-image: chicken-pasta-vege-pot.png
+image: chicken-pasta-vege-pot.jpg
 categories: [dinner]
 tags: [dinner, european, chicken, pasta, one pot]
 

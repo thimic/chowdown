@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Pesto Chicken & Veggies"
-image: pesto-chicken.png
+image: pesto-chicken.jpg
 categories: [dinner]
 tags: [European, chicken, pesto, dinner]
 

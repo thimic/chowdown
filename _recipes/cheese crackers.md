@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Cheese crackers"
-image: cheese-crackers.png
+image: cheese-crackers.jpg
 categories: [cookies]
 tags: [baking, cheese, crackers, cookies]
 

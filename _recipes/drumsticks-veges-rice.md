@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Chicken drumsticks with rice and veges"
-image: drumstticks-rice-veges.png
+image: drumstticks-rice-veges.jpg
 categories: [dinner]
 tags: [European, chicken, rice, dinner]
 

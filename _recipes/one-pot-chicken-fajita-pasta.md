@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "One-Pot Chicken Fajita Pasta"
-image: chicken-fajita-pasta.png
+image: chicken-fajita-pasta.jpg
 categories: [dinner]
 tags: [European, chicken, pasta, fajita, dinner]
 

@@ -1205,6 +1205,8 @@ input[type=range] {
 .purple  { color: #b10dc9 }
 .maroon  { color: #85144b }
 
+.shadow  { text-shadow: 0px 0px 20px black;}
+
 .bg-black, .bg-dark-gray   { background-color: #111 }
 .bg-gray, .bg-mid-gray     { background-color: #aaa }
 .bg-silver, .bg-light-gray { background-color: #ddd }

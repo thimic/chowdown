@@ -16,7 +16,7 @@ directions:
 - Pour dry ingredients into bowl and stir until no streaks of flour remain.
 - Stir in buttered pecans.
 - Cover with plastic wrap, pressing the plastic down on the surface of the dough. Chill for at least 3 hours and up to 3 days. If you chill longer than 3 hours, let dough sit at room temperature for about 30 minutes so the dough is easier to scoop.
-- Preheat the oven to 350° F. Line a baking sheet with parchment paper.
+- Preheat the oven to 175° C. Line a baking sheet with parchment paper.
 - Roll dough into balls, about 3 tablespoons each (60g) . Place 2 inches apart on baking sheet. For optional decoration see notes.
 - Bake on the middle rack until the edges are set and just beginning to turn golden brown, about 9-12 minutes. The tops of the cookies should still be quite soft when you remove them from the oven, and may even appear slightly underbaked in center. They will firm up while cooling.
 - Let rest on baking sheet for 5 minutes, then transfer to a cooling rack.

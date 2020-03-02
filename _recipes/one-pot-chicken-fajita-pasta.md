@@ -5,6 +5,9 @@ title:  "One-Pot Chicken Fajita Pasta"
 image: chicken-fajita-pasta.jpg
 categories: [dinner]
 tags: [European, chicken, pasta, fajita, dinner]
+reference:
+    url: https://www.youtube.com/watch?v=yrWJ2-fUw98
+    description: Tasty - One-Pot Chicken Fajita Pasta
 
 directions:
 - Heat oil in a large pot over high heat
@@ -31,6 +34,4 @@ ingredients:
 - 4 cups penne pasta (400 g)
 - 1 cup pepper jack cheese (100 g), shredded
 ---
-
-- [Original video: Tasty - One-Pot Chicken Fajita Pasta](https://www.youtube.com/watch?v=yrWJ2-fUw98)
 

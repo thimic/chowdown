@@ -5,6 +5,9 @@ title:  "Chicken drumsticks with rice and veges"
 image: drumstticks-rice-veges.jpg
 categories: [dinner]
 tags: [European, chicken, rice, dinner]
+reference:
+    url: https://www.youtube.com/watch?v=PaFkmFKd1W0
+    description: Рис с овощами и куриными ножками Блюдо для ленивых
 
 directions:
 - 1) Ножки посолить, приправы
@@ -34,5 +37,4 @@ ingredients:
 - • Подсолнечное масло
 ---
 
-- [Original video: Рис с овощами и куриными ножками Блюдо для ленивых](https://www.youtube.com/watch?v=PaFkmFKd1W0)
 

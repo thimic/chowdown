@@ -5,6 +5,9 @@ title:  "Browned Butter Pecan Cookies"
 image: browned-butter-pecan-cookies.jpg
 categories: [Baking]
 tags: [baking, dessert, sweet, biscuit, cookie, pecan, nuts]
+reference: 
+  url: http://foodtasia.com/butter-pecan-cookies/
+  description: Foodtasia
 
 directions:
 - "Brown the butter: Heat the butter in a light colored skillet over medium-high heat. It will come to a boil. - Continue cooking, stirring occasionally, until the solid particles at the bottom turn golden brown. Keep an eye - on it carefully towards the end, it can burn quickly. Immediately pour into a large mixing bowl to stop the - browning. Let cool slightly, about 10 minutes."

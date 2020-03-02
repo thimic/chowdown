@@ -5,6 +5,9 @@ title:  "Dakjjim: Braised chicken with vegetables"
 image: dakjjim.jpg
 categories: [dinner]
 tags: [Korean, chicken, soy sauce, Asian]
+reference: 
+  url: https://www.maangchi.com/recipe/dakjjim
+  description: Maanchi blog
 
 directions:
 - 1) Cut chicken into bite-sized
@@ -61,5 +64,4 @@ ingredients:
 - sesame seeds, 
 - vegetable oil.
 ---
-- [Original video: Maanchi blog](https://www.maangchi.com/recipe/dakjjim)
 

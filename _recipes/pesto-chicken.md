@@ -5,6 +5,9 @@ title:  "Pesto Chicken & Veggies"
 image: pesto-chicken.jpg
 categories: [dinner]
 tags: [European, chicken, pesto, dinner]
+reference:
+    url: https://www.buzzfeed.com/cyruskowsari/5-meal-prep-recipes?utm_term=.ys7k79elb#.ts9KY0mMb
+    description: "Buzzfeed: 5 meals prep"
 
 directions:
 - 1) In a large pan, heat olive oil and add chicken thighs. Season with salt and pepper. When the chicken is completely cooked through, remove from pan, slice into strips, and set aside.
@@ -21,6 +24,3 @@ ingredients:
 - 2 cups cherry tomatoes, halved
 - ½ cup basil pesto
 ---
-
-- [Original video: 5 meals prep](https://www.buzzfeed.com/cyruskowsari/5-meal-prep-recipes?utm_term=.ys7k79elb#.ts9KY0mMb)
-

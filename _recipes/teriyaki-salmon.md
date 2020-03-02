@@ -5,6 +5,9 @@ title:  "Teriyaki Salmon"
 image: teriyaki-salmon.jpg
 categories: [Dinner]
 tags: [dinner, salmon, japanese, teriyaki, rice]
+reference:
+    url: https://natashaskitchen.com/teriyaki-salmon-recipe/
+    description: Natasha's Kitchen
 
 directions:
 - Grease a large rimmed baking sheet (cover with foil and then grease for easier clean-up). Preheat oven to 400˚F.

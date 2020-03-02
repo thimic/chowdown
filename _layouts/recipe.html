@@ -24,6 +24,12 @@ layout: default
     <h1 class="post-title center m1 sm-mt3" itemprop="name">{{ page.title }}</h1>
   </header>
 
+  {% if page.reference %}
+  <div class="px2 mt3 clearfix">
+    <div class="sm-col-8 mx-auto" itemprop="reference"><em>Original recipe: <a href="{{page.reference.url}}" target="_blank">{{page.reference.description or 'Link'}}</a></em></div>
+  </div>
+  {% endif %}
+
   <div class="px2 mt3 clearfix">
     <div class="sm-col-8 mx-auto" itemprop="description">{{page.content}}</div>
   </div>

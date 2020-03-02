@@ -5,6 +5,9 @@ title:  "Chocolate Chip Cookies"
 image: chocolate-chip-cookies.jpg
 categories: [Baking]
 tags: [baking, dessert, sweet, biscuit, cookie, chocolate]
+reference:
+    url: http://allrecipes.co.uk/recipe/4807/best-big--fat--chewy-chocolate-chip-cookies.aspx
+    description: Allrecipes
 
 directions:
 - Preheat the oven to 170 C / Gas mark 3. Grease baking trays or line with parchment.

@@ -5,6 +5,9 @@ title:  "Easy Napoleon cake, 3 ingridients"
 image: napoleon-cake.jpg
 categories: [Baking]
 tags: [baking, dessert, sweet, cake, cream, condensed milk, puff pastry]
+reference:
+    url: https://www.youtube.com/watch?v=YxYG_fJlwd0
+    description: FooDee channel Торт из 3 ингредиентов лучше Наполеона / Рецепт торта за 30 минут!
 
 directions:
 - 1). Тесто не нужно раскатывать, а лишь разморозить и нарезать на длинные полоски шириной 1-1,5 см.
@@ -21,5 +24,3 @@ ingredients:
 - сгущённое молоко - 200 гр
 
 ---
-
-- [Original video: FooDee channel Торт из 3 ингредиентов лучше Наполеона / Рецепт торта за 30 минут!](https://www.youtube.com/watch?v=YxYG_fJlwd0)

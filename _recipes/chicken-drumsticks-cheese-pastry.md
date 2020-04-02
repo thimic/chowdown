@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Chicken drumsticks with cheese in puff pastry"
-image: 1.jpg
+image: chicken-pastry.jpg
 categories: [dinner]
 tags: [European, chicken, pastry, cheese, dinner]
 reference:

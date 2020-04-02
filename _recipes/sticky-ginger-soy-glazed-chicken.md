@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Sticky Ginger Soy Glazed Chicken"
-image: 1.jpg
+image: ginger-soy-chicken.jpg
 categories: [dinner]
 tags: [Asian, chicken, dinner, ginger, soy sauce]
 reference:

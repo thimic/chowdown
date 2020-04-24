@@ -4,7 +4,7 @@ layout: recipe
 title:  "Teriyaki Salmon"
 image: teriyaki-salmon.jpg
 categories: [Dinner]
-tags: [dinner, salmon, japanese, teriyaki, rice]
+tags: [Asian, dinner, salmon, japanese, teriyaki, rice]
 reference:
     url: https://natashaskitchen.com/teriyaki-salmon-recipe/
     description: Natasha's Kitchen

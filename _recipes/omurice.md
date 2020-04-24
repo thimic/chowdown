@@ -4,7 +4,7 @@ layout: recipe
 title:  "Omurice: omelette rice"
 image: omurice.jpg
 categories: [dinner]
-tags: [Korean, rice, vegetables, egg, dinner]
+tags: [Asian, Korean, rice, vegetables, egg, dinner]
 reference:
     url: https://www.maangchi.com/recipe/omeu-raiseu
     description: Maangchi - Omurice

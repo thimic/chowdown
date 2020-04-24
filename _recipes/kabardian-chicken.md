@@ -31,4 +31,4 @@ ingredients:
 
 ---
 
-{{< figure src="/images/kabardian-chicken1.jpg" caption="Ready chicken wit potatoes" >}}
+![Ready chicken wit potatoes](/images/kabardian-chicken1.jpg)

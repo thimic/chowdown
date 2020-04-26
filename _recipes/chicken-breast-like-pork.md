@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Chicken breast like pork"
-image: 1.jpg
+image: chicken-like-pork.jpg
 categories: [dinner]
 tags: [European, chicken, dinner]
 reference:
